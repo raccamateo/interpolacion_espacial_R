@@ -1,0 +1,8 @@
+book_filename: "Interpolación espacial con R"
+language:
+  ui:
+    chapter_name: ""
+split by: "none"
+delete_merged_file: false
+repo: https://github.com/raccamateo/interpolacion_espacial_R
+new_session: no
